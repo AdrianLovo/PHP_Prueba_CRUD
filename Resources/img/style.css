@@ -1,0 +1,4 @@
+td.details-delete {
+    background: url('../img/delete.ico') no-repeat center center;
+    cursor: pointer;
+}

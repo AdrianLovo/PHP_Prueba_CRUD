@@ -1,0 +1,25 @@
+td.details-delete {
+    background: url(../img/delete.ico) no-repeat center center;
+    background-size: 20px;
+    cursor: pointer;
+}
+
+td.details-edit {
+    background: url(../img/edit.ico) no-repeat center center;
+    background-size: 20px;
+    cursor: pointer;
+}
+
+#imgPrevia, #imgPreviaE {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 5px;
+}
+
+.Error{
+    color: #495057;
+    background-color: #fff;
+    border-color: #c22835;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(218 75 134 / 25%);
+}
